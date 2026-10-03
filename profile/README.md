@@ -14,7 +14,7 @@
 
 ## 게임
 
-- **[최강의 리볼버](https://maxtortime.itch.io/strongest-revolver)** — 타이밍과 정확한 조준으로 승부를 가르는 서부 결투 게임. 브라우저에서 공개 프로토타입을 플레이할 수 있습니다.
+- **[최강의 리볼버](https://maxtortime.itch.io/strongest-revolver)** — 타이밍과 정확한 조준으로 승부를 가르는 서부 결투 게임. 브라우저에서 공개 프로토타입을 플레이할 수 있습니다. [소스 코드](https://github.com/figurecurator/strongest-revolver)는 Apache 2.0으로 공개하며, 게임 이름과 상표는 RainbowSoft 소유입니다.
 - **이계약국**
 - **홀스플랫**
 
