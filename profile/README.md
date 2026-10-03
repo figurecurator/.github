@@ -10,7 +10,7 @@
 
 ## 오픈소스
 
-**[samlgate](https://github.com/figurecurator/samlgate)**를 포함한 오픈소스 프로젝트로 소프트웨어의 가능성을 넓혀갑니다.
+**[samlgate](https://github.com/figurecurator/samlgate)** — 브라우저 SAML 로그인으로 AWS CLI용 임시 자격증명을 발급하는 오픈소스 도구입니다. Microsoft Entra ID·Okta·Google Workspace 등의 로그인 흐름과 기존 saml2aws 설정을 지원합니다. 현재 Windows용 단일 실행 파일로 제공하며 MIT 라이선스로 공개합니다.
 
 ## 게임
 
